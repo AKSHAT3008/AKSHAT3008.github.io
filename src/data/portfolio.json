@@ -1,0 +1,22 @@
+{
+    "portfolio" : [
+        {
+            "image": "/portfolio/2.jpg",
+            "name" :"expense tracker",
+            "description":"",
+            "url":"https://github.com/AKSHAT3008/Expense-tracker.git"                
+        },
+        {
+            "image": "/portfolio/1.jpg",
+            "name" :"to-do-app",
+            "description":"",
+            "url":"https://github.com/AKSHAT3008/to-do-app.git"                
+        },
+        {
+            "image": "/portfolio/3.jpg",
+            "name" :"weather-app",
+            "description":"",
+            "url":"https://github.com/AKSHAT3008/weather-app.git"                
+        }
+    ]
+}
